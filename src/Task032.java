@@ -1,13 +1,3 @@
-/*
-W pliku została umieszczona metoda o sygnaturze 
-`static String firstHalf(String str)`.
-
-1. Uzupełnij ciało metody tak aby zwracała połowę napisu.
-2. Uwzględniamy tylko część całkowitą podziału.
-Przykład: dla napisu `Textdopodziału` zwróci `Textdop`.
-
-*/
-
 public class Task032 {
 
 	public static void main(String[] args) {

@@ -1,14 +1,3 @@
-/*
-
-stwórz metodę o sygnaturze `static void textLines()`, która:
-
-1. Wczyta kolejne linie tekstu z konsoli, a następnie je wyświetlał, 
-program ma zakończyć działanie po wpisaniu `quit`.
-2. Wywołaj metodę w metodzie `main`.
-
-*/
-
-
 import java.util.Scanner;
 
 public class Task063 {

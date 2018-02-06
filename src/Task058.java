@@ -1,12 +1,3 @@
-/*
-W pliku umieść metodę o sygnaturze `static int elementExist(int[] elements, int value)`.
-
-1. Uzupełnij ciało metody tak, aby sprawdzała czy w tablicy `elements` istnieje element o wartości `value`.
-2. Jeżeli wartość nie istnieje metoda zwróci wyjątek typu `Exception` z komentarzem `Nie ma takiego numeru!`.
-3. Uzupełnij sygnaturę metody informacją że może ona zwracać wyjątek typu `Exception`.
-
-*/
-
 public class Task058 {
 
 	public static void main(String[] args) {

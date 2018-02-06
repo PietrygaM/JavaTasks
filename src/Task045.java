@@ -1,16 +1,3 @@
-/*
-W pliku  umieść metodę o sygnaturze 
-`static String censor(String str, String[] words)`.
-
-1. Metoda:
-
-* rozbije łańcuch tekstowy na tablicę wyrazów,
-* sprawdzi, czy nie znajdują się w nim słowa niedozwolone zawarte w tablicy `words`,
-* jeśli tak -- zamieni je na cztery gwiazdki (****)
-* ponownie połączy tablicę w string i zwróci wartość.
-
-*/
-
 public class Task045 {
 
 	public static void main(String[] args) {

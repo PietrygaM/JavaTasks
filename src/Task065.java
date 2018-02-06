@@ -1,18 +1,5 @@
 import java.util.Scanner;
 
-/*
-
-Stwórz metodę o sygnaturze `static void nettoBrutto()`, która:
-
-1. Wczyta z konsoli typ wyliczenia dostępne wartości to:
-**bn** - zamiana brutto na netto
-**nb** - zamiana netto na brutto
-2. Wczyta z konsoli wartość do zamiany a następnie dokona zamiany wg wcześniej określonego typu.
-W przypadku otrzymania wartości innej niż możliwe **bn**, **nb** - program będzie pytał do skutku.
-3. Wywołaj metodę w metodzie `main`.
-
-*/
-
 public class Task065 {
 
 	public static void main(String[] args) {
@@ -49,15 +36,15 @@ public class Task065 {
 			} else {
 				System.out.println("Błędna wartość - wpisz ponownie");
 				scan.next();
-			}	
+			}
 		}
 		scan.close();
 		double result = 0;
 		if (type.equals("bn")) {
-			result = value/1.22;
+			result = value / 1.22;
 		} else {
-			result = value*1.22;
+			result = value * 1.22;
 		}
-		System.out.println("Wynik = "+result);
+		System.out.println("Wynik = " + result);
 	}
 }

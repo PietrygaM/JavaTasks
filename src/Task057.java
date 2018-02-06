@@ -1,12 +1,3 @@
-/*
-W pliku umieść metodę o sygnaturze `static int toInt(String str)`.
-
-1. Uzupełnij ciało metody tak, aby zwracała zamieniony napis `str` na typ int.
-2. Obsłuż możliwe wyjątki.
-
-*/
-
-
 public class Task057 {
 
     public static void main(String[] args) {

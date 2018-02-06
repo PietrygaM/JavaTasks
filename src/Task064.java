@@ -1,13 +1,3 @@
-/*
-
-W pliku stwórz metodę o sygnaturze `static void equation()`, która:
-
-1. Poprosi o podanie liczb całkowitych `a`, `b`, `c`
-2. Obliczy pierwiastki równania kwadratowego, a następnie je wyświetli.
-3. Wywołaj metodę w metodzie `main`.
-
-*/
-
 import java.util.Scanner;
 
 public class Task064 {

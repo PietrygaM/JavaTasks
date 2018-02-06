@@ -1,13 +1,3 @@
-/*
-
-W pliku została umieszczona metoda o sygnaturze 
-`static int charPos(String str, char c) `.
-
-1. Uzupełnij ciało metody tak aby zwracała pozycje na której 
-w ciągu `str` znajduje się znak `c`. 
-
-*/
-
 public class Task031 {
 
 	public static void main(String[] args) {

@@ -1,19 +1,3 @@
-/*
-1. Stwórz tablicę z 10 dowolnymi liczbami, zmienną z tablicą nazwij `numbers`.
-2. Stwórz drugą tablicę z 10 dowolnymi liczbami, zmienną z tablicą nazwij `secondNumbers`.
-3. Stwórz trzecią tablicę zawierającą sumę wszystkich kolejnych elementów. 
-
-Dla przykładowych tablic:
-```java
-int[] numbers = {2, 3};
-int[] secondNumners = {3, 4};
-```
-wynikiem będzie tablica o elementach `5 i 7` .
-
-*/
-
-
-
 import java.util.Arrays;
 
 public class Task016 {

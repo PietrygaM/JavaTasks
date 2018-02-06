@@ -1,8 +1,3 @@
-/*
-Napisz metodę static int square(int num), 
-która zwróci wartość num podniesioną do kwadratu.
-*/
-
 public class Task001 {
 
 	public static void main(String[] args) {

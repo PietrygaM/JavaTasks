@@ -1,20 +1,3 @@
-/*
-1. Stwórz tablicę z 10 dowolnymi liczbami, zmienną z tablicą nazwij `numbers`.
-2. Stwórz zmienną tablicową `reverse` i umieść w niej elementy tablicy numbers 
-w odwrotnej kolejności.
-3. Wypisz na konsoli elementy z odwróconej tablicy.
-
-Dla tablicy o elementach:
-```
-3, 5, 7, 2, 1
-```
-Wypisze:
-```
-1, 2, 7, 5, 3
-```
-
-*/
-
 public class Task014 {
 
 	public static void main(String[] args) {

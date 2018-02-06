@@ -1,13 +1,3 @@
-/*
-W pliku umieść metodę o sygnaturze `static int evenSum(int[][] arr)`.
- 
-1. Uzupełnij ciało metody tak, aby zliczyła sumę wartości dla wszystkich elementów 
-z nieparzystych indeksów.
-2. Metoda ma zwrócić sumę.
-Przykład: dla tablicy int arr[][] = {{1,2,3},{4,5,6}}; int sum = 2 + 5;
-
-*/
-
 public class Task026 {
 
 	public static void main(String[] args) {

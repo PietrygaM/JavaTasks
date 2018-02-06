@@ -1,15 +1,3 @@
-/*
-W pliku stwórz metodę o sygnaturze `static void getInfo()`.
-
-W ciele metody dodaj kod który:
-
-1. Poprosi Cię o podanie imienia.
-2. Poprosi Cię o podanie wieku.
-3. Wypisze na konsoli informacje w formacie `"{imię} ma {wiek} lat"`.
-4. Wywołaj metodę w metodzie `main`.
-
-*/
-
 import java.util.Scanner;
 
 public class Task059 {

@@ -1,13 +1,3 @@
-/*
-
-W pliku umieść metodę o sygnaturze `static int[] minimum(int[][] arr)`.
- 
-1. Uzupełnij ciało metody tak, aby dla otrzymanej tablicy 2-wymiarowej 
-dla każdego jej wiersza wyznaczyła minimalną wartość.
-2. Poszczególne minimalne wartości mają być umieszczone w tablicy, którą metoda zwraca.
-
-*/
-
 import java.util.Arrays;
 
 public class Task023 {

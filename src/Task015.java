@@ -1,12 +1,3 @@
-/*
-1. Stwórz tablicę z 10 dowolnymi liczbami, zmienną z tablicą nazwij `numbers`.
-2. Posortuj rosnąco tablicę wykorzystując metody klasy Arrays.
-3. Wyświetl w konsoli posortowaną tablicę - również wykorzystaj metodę klasy Arrays.
-
-*/
-
-
-
 import java.util.Arrays;
 
 public class Task015 {

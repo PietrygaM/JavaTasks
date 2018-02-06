@@ -1,15 +1,3 @@
-/*
-Palindrom to słowo lub zdanie, które czytane wspak brzmi tak samo, jak od początku, 
-np. "kajak", "radar", czy "Kobyła ma mały bok".
-Napisz program, który:
-
-1. Dla znajdującej się w pliku zmiennej `str` sprawdzi czy jest on palindromem
-2. Podczas sprawdzania palindromu, zignoruj spacje.
-
-*/
-
-
-
 public class Task028 {
 
 	public static void main(String[] args) {

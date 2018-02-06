@@ -1,10 +1,3 @@
-/*
-
-1. W pętli wypisz długość tablic składających się na 2gi wymiar.
-2. W pętli wypisz wszystkie elementy tablicy 2 wymiarowej 
-(musisz użyć do tego zagnieżdżonej pętli **for**).
-*/
-
 public class Task018 {
 
 	public static void main(String[] args) {

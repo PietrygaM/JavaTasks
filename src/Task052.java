@@ -1,13 +1,3 @@
-/*
-W pliku znajduje się program, który zwraca wyjątek.
-
-1. Popraw kod dodając obsługę zwracanego wyjątku.
-
-*/
-
-
-
-
 public class Task052 {
 
     public static void main(String[] args) {  

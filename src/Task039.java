@@ -1,13 +1,3 @@
-/*
-Szyfr Cezara jest to szyfr za pomocą, którego Juliusz Cezar 
-szyfrował swoje listy do Cycerona.
-
-W pliku umieść metodę o sygnaturze `static String encode(String str)`.
- 
-1. Uzupełnij ciało metody tak, by zwracała napis zaszyfrowany szyfrem Cezara   
-
-*/
-
 public class Task039 {
 
 	private static final String ALPHABET = "abcdefghijklmnoprstuvxyz";

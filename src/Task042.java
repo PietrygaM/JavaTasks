@@ -1,10 +1,3 @@
-/*
-W pliku umieść  metodę  o sygnaturze `static int tripple(String str)` 
-1. Metoda zwraca ilość potrójnych wystąpień znaków w napisie
-Przykład dla qazbbbwsx -> 1, dla aaawsxbbb ->2
-
-*/
-
 public class Task042 {
 
 	public static void main(String[] args) {

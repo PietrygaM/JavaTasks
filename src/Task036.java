@@ -1,15 +1,3 @@
-/*
-napisz program, który:
-
-1. Dla znajdującej się w pliku zmiennej `str` 
-podzieli napis na zdania. Znakiem podziału jest kropka `(.)` .
-2. Wyświetli na konsoli każde zdanie w oddzielnej lini.
-
-*/
-
-
-
-
 public class Task036 {
 
     public static void main(String[] args) {

@@ -1,12 +1,3 @@
-/*
-napisz program, który:
-
-1. Dla znajdującej się w pliku zmiennej `str` podzieli napis na wyrazy. 
-2. Wyświetli na konsoli każdy w oddzielnej lini.
-
-*/
-
-
 public class Task035 {
 
 	public static void main(String[] args) {

@@ -1,13 +1,3 @@
-/*
-W pliku stwórz metodę o sygnaturze `static void getData()`.
-
-1. Uzupełnij ciało metody tak, by wczytywała liczby z konsoli, 
-sumowała ich wartość oraz ilość i wyświetlała na konsoli do momentu wprowadzania 0.
-2. Wywołaj metodę w metodzie `main`.
-
-*/
-
-
 import java.util.Scanner;
 
 public class Task061 {

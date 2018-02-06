@@ -1,12 +1,3 @@
-/*
-1. Stwórz tablicę z 20 losowymi liczbami z zakresu `0-100`, 
-zmienną z tablicą nazwij `randNumbers`
-2. Użyj do tego pętli `for`
-3. Wypisz w konsoli minimalną wartość z tablicy.
-*/
-
-
-
 import java.util.Random;
 
 public class Task012 {

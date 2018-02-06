@@ -1,7 +1,3 @@
-/*
-1. Wypisz na konsoli ślad macierzy (sumę elementów na głównej przekątnej).
-*/
-
 public class Task020 {
 
 	public static void main(String[] args) {

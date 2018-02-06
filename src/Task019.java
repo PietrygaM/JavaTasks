@@ -1,9 +1,3 @@
-/*
-
-1. Wypisz na konsoli sumę wszystkich elementów tablicy task3Array.
-
-*/
-
 public class Task019 {
 
 	public static void main(String[] args) {

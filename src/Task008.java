@@ -1,8 +1,3 @@
-/* 
-Napisz metodę `maxOfThree`, która przyjmie trzy parametry liczbowe. 
-Funkcja ma zwrócić największą liczbę.
-*/
-
 public class Task008 {
 
 	public static void main(String[] args) {

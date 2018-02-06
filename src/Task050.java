@@ -1,9 +1,3 @@
-/*
-
-Dodaj obsługę zwracanego wyjątku w przypadku podania wartości "null".
-
-*/
-
 public class Task050 {
 
     public static void main(String[] args) {

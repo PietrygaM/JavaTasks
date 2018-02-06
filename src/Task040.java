@@ -1,12 +1,3 @@
-/*
-W pliku umieść zmodyfikowaną metodę z wcześniejszego o sygnaturze 
-`static String encode(String str, int shift)`.
- 
-1. `shift` - oznacza przesunięcie znaków
-2. Dodaj metodę deszyfrującą `static String decode(String str, int shift)` .
-
-*/
-
 public class Task040 {
 
 	private static final String ALPHABET = "abcdefghijklmnoprstuvxyz";

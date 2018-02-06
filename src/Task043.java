@@ -1,12 +1,3 @@
-/*
-W pliku umieść metodę o sygnaturze 
-`static String replaceChar(String str, char forReplace, char replacement)`.
-
-1. Uzupełnij ciało metody tak, aby zwracała napis powstały z zamiany w napisie `str`
- wszystkich zmaków `forReplace` przez znaki `replacement`.
-
-*/
-
 public class Task043 {
 
 	public static void main(String[] args) {

@@ -1,15 +1,3 @@
-/*
-W pliku umieść metodę o sygnaturze `static int[] lessMore(int[][] arr)`.
- 
-1. Uzupełnij ciało metody tak, aby dla otrzymanej tablicy 2-wymiarowej 
-obliczyć średnią arytmetyczną.
-2. Oblicz ile elementów jest mniejszych a ile większych od średniej.
-3. Metoda ma zwrócić tablicę składającą się z 2 elementów 
-1 - ilość elementów mniejszych od średniej, 2- ilość elementów większych.
-
-*/
-
-
 public class Task024 {
 
     public static void main(String[] args) {

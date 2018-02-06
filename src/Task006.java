@@ -1,13 +1,3 @@
-/* 
-Napisz metodę `checkMaturity`, która:
-
-* przyjmie parametr liczbowy `age`, który oznacza wiek użytkownika,
-* sprawdzi czy użytkownik jest pełnoletni,
-* jeśli jest &ndash; zwróci wartość `true`,
-* jeśli nie &ndash; zwróci wartość `false`.
-*/
-
-
 public class Task006 {
 
     public static void main(String[] args) {

@@ -1,9 +1,3 @@
-/* 
-Napisz metodę `convertToUsd`, która przyjmuje parametr `zlotys`, czyli kwotę w złotówkach.
- Funkcja ma zwrócić podaną kwotę w dolarach amerykańskich. 
- Jako przelicznik przyjmij wartość 4.04 PLN = 1 USD.
-*/
-
 public class Task003 {
 
 	private final static double USD=4.04;

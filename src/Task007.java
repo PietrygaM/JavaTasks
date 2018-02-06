@@ -1,12 +1,3 @@
-/* 
-Napisz metodę `checkEven`, która:
-
-* przyjmie parametr liczbowy `number`,
-* będzie zwracać wartość typu `String`,
-* jeśli liczba jest parzysta, zwróci wynik "even",
-* jeśli liczba jest nieparzysta, zwróci wynik "odd".
-*/
-
 public class Task007 {
 
 	public static void main(String[] args) {

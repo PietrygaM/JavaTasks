@@ -1,11 +1,3 @@
-/* 
-Napisz metodę `factorial`, która przyjmie jako parametr liczbę naturalną `n`. 
-Funkcja ma zwrócić wartość *n!*, 
-czyli wynik mnożenia wszystkich liczb naturalnych w zakresie 1..n .
-*/
-
-
-
 public class Task009 {
 
 	public static void main(String[] args) {

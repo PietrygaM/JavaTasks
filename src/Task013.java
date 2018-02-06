@@ -1,15 +1,3 @@
-/*
-1. Stwórz 10 elementową tablicę wypełnioną pojedynczą wartością 2. 
-Tablica powinna wyglądać następująco:
-    ````
-    [2. 2. 2. 2. 2. 2 .2. 2. 2. 2]
-    ````
-2. Zadanie wykonaj bez użycia pętli for.
-
-*/
-
-
-
 import java.util.Arrays;
 
 public class Task013 {

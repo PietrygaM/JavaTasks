@@ -1,14 +1,3 @@
-/* 
-Napisz metodę `createName`, która przyjmie następujące parametry:
-
-* `name`: imię,
-* `surname`: nazwisko,
-* `nickname`: pseudonim.
-
-Funkcja ma zwrócić łańcuch tekstowy z połączonymi parametrami w postaci Imię "Pseudonim" Nazwisko.
-
-*/
-
 public class Task004 {
 
     public static void main(String[] args) {

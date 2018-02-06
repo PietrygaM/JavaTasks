@@ -1,12 +1,3 @@
-/*
-W pliku umieść metodę o sygnaturze `static void average(String a, String b)`.
-
-1. Uzupełnij ciało metody tak, aby dokonała konwersji zmiennych a i b na typ liczbowy int.
-2. Wykonała dzielenie zmiennej `a` przez zmienną `b`.
-3. Zabezpiecz program przed możliwymi błędami.
-
-*/
-
 public class Task054 {
 
 	public static void main(String[] args) {

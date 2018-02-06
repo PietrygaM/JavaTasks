@@ -1,15 +1,3 @@
-/*
-W pliku stwórz metodę o sygnaturze `static void operations()`.
-
-1. Uzupełnij ciało metody tak, by  wczytała 2 liczby 
-a następnie wyświetliła na konsoli wynik dodawania,
- odejmowania, mnożenia i dzielenia. 
-2. Wywołaj metodę w metodzie `main`.
-
-*/
-
-
-
 import java.util.Scanner;
 
 public class Task060 {

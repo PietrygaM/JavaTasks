@@ -1,12 +1,3 @@
-/*
-W pliku została umieszczona metoda o sygnaturze 
-`static String stringFromArray(String[] str)`.
-
-1. Uzupełnij ciało metody tak aby zwracała napis powstały 
-z połącznia wszystkich napisów występujących w tablicy `str`.
-
-*/
-
 public class Task034 {
 
     public static void main(String[] args) {

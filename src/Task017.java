@@ -1,9 +1,3 @@
-/*
-1. Wypisz element znajdujący się w 3 kolumnie i 2 wierszu.
-2. Wypisz długość tablicy znajdującej się w drugim rzędzie.
-3. Wypisz element znajdujący się w czwartej kolumnie i 3 wierszu.
-*/
-
 public class Task017 {
 
 	public static void main(String[] args) {

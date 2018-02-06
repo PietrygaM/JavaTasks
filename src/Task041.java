@@ -1,12 +1,3 @@
-/*
-W pliku umieść  metodę  o sygnaturze 
-`static String upperCase(String str, int index)` .
-
-1. Metoda zwraca napis `str`, w którym znaki zostały zamienione 
-na duże z pozycji podzielnych przez `index`
-
-*/
-
 public class Task041 {
 
     public static void main(String[] args) {
