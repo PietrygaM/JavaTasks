@@ -7,7 +7,7 @@ public class Task081 {
 
 	public static void main(String[] args) {
 
-		// Generate set with number from 1-100 (without repeat)
+		// Generate set with number from 1-100 (without repeat) and without one number
 		int max = 100;
 		Set<Integer> tmpSet = new HashSet<>();
 		Random r = new Random();
@@ -17,20 +17,19 @@ public class Task081 {
 		}
 
 		Iterator<Integer> it = tmpSet.iterator();
-
 		while (it.hasNext()) {
 			System.out.print(it.next() + " ,");
 		}
 		System.out.println("----------------------------------");
 		System.out.println(tmpSet.size());
 		System.out.println("----------------------------------");
+		// Find missing number
 		for (Integer i = 1; i < tmpSet.size()+1; i++) {
 			if (!tmpSet.contains(i)) {
 				System.out.println("You are looking for - " + i);
 				break;
 			}
 		}
-		System.out.println("----------------------------------");
 
 	}
 
