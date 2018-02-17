@@ -47,23 +47,38 @@ Thus, the answer is 1 + 1 + 1 + 5 + 1 = 9.*/
 public class Task087 {
 
 	public static void main(String[] args) {
-		
-		int [][] matrix = {{1, 1, 1, 0}, {0, 5, 0, 1},{2, 1, 3, 10}};
-		
-		System.out.println(matrixElementsSum(matrix));
-	
-	}
 
-	public static int matrixElementsSum(int[][] matrix) {
+		int[][] matrix = { { 1, 1, 1, 0 }, { 0, 5, 0, 1 }, { 2, 1, 3, 10 } };
+
+		System.out.println(matrixElementsSum1(matrix));
+		System.out.println(matrixElementsSum2(matrix));
+
+	}
+	
+	// Method 1
+	public static int matrixElementsSum1(int[][] matrix) {
 		int sum = 0;
 		for (int i = 0; i < matrix.length; i++) {
 			for (int j = 0; j < matrix[i].length; j++) {
-				if (matrix[i][j] == 0 && i<(matrix.length-1)) {
+				if (matrix[i][j] == 0 && i < (matrix.length - 1)) {
 					matrix[i + 1][j] = 0;
 				}
 				sum += matrix[i][j];
 			}
 		}
+		return sum;
+	}
+
+	// Method 2
+	public static int matrixElementsSum2(int[][] matrix) {
+		int sum = 0;
+		for (int j = 0; j < matrix[0].length; j++)
+			for (int i = 0; i < matrix.length; i++) {
+				if (matrix[i][j] > 0)
+					sum += matrix[i][j];
+				else
+					break;
+			}
 		return sum;
 	}
 
