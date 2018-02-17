@@ -24,6 +24,9 @@ public class Task086 {
 		System.out.println(almostIncreasingSequence(testArray));
 
 	}
+	
+	
+	
 
 	public static boolean almostIncreasingSequence(int[] sequence) {
 
