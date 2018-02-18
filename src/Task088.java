@@ -25,7 +25,7 @@ public class Task088 {
 
 		int maxLength = 0;
 		for (String s : inputArray) {
-			if (s.length() >= maxLength) {
+			if (s.length() > maxLength) {
 				maxLength = s.length();
 			}
 		}
@@ -37,7 +37,6 @@ public class Task088 {
 			}
 		}
 
-		System.out.println("counter = " + counter);
 		String[] allLongestStrings = new String[counter];
 		counter = 0;
 		for (String s : inputArray) {
